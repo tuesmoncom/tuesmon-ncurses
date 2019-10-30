@@ -16,7 +16,7 @@ from tuesmon_ncurses import __name__, __description__, __version__
 from setuptools import setup, find_packages
 
 REQUIREMENTS = [
-    "requests==2.5.0",
+    "requests==2.20.0",
     "urwid>=1.3.0",
     "x256==0.0.3"
 ]
